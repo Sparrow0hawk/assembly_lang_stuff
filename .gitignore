@@ -4,3 +4,6 @@
 **/autom4te.cache/*
 **/aclocal.m4
 **/install.sh
+# gitignore for ASM_projects
+**/*.o
+**/asmtut
